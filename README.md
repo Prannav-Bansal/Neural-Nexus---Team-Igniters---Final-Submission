@@ -13,8 +13,6 @@ PPT LINK - https://drive.google.com/drive/folders/1qRe3THwM_Gjy4zWN1MaCmIDf16aOZ
 
 ---
 
-##  Phase 1: Preprocessing & Understanding the Data
-
 Before training, we focused on understanding the dataset:
 
 - Data is **imbalanced** (Non_Damage dominates)  

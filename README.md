@@ -27,3 +27,8 @@ Before training, we focused on understanding the dataset:
 - Used **class weights** to handle imbalance  
 - Created proper train / validation / test splits  
 - Used efficient DataLoaders  
+
+
+![Demo Image 1](Demo Images/pic1.png)
+![Demo Image 2](Demo Images/pic2.png)
+![Demo Image 2](Demo Images/pic2.png)

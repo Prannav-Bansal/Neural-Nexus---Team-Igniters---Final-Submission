@@ -1,5 +1,10 @@
 PPT LINK - https://drive.google.com/drive/folders/1qRe3THwM_Gjy4zWN1MaCmIDf16aOZKjc
 
+![Demo Image 1](pic1.png)
+![Demo Image 2](pic2.png)
+![Demo Image 3](pic3.png)
+
+
 # Team Igniters – Disaster Classification System
 
 ##  Results
@@ -27,8 +32,3 @@ Before training, we focused on understanding the dataset:
 - Used **class weights** to handle imbalance  
 - Created proper train / validation / test splits  
 - Used efficient DataLoaders  
-
-
-![Demo Image 1](pic1.png)
-![Demo Image 2](pic2.png)
-![Demo Image 3](pic3.png)
